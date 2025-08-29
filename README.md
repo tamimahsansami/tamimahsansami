@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi Sami here, 👋
 
+To build a career in Data Science and Artificial Intelligence, with a strong focus on applying Machine Learning and AI in real-world domains such as Robotics and Control Systems. I aim to leverage my skills in programming, Machine Learning, and problem-solving to contribute to impactful projects and research initiatives.
 <!--
 **tamimahsansami/tamimahsansami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
