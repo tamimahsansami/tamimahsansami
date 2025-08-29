@@ -1,11 +1,18 @@
 ## Hi Sami here, 👋
 
 To build a career in Data Science and Artificial Intelligence, with a strong focus on applying Machine Learning and AI in real-world domains such as Robotics and Control Systems. I aim to leverage my skills in programming, Machine Learning, and problem-solving to contribute to impactful projects and research initiatives.
+
+
+
+
+## EDUCATIONAL QUALIFICATIONS
+SSC from NARAIL GOVERNMENT HIGH SCHOOL
+Session: 2017-2018, Passed: 2019 with GPA 5 out of 5
+HSC from NARAIL GOVERNMENT VICTORIA COLLEGE
+Session: 2019-2020, Passed: 2021 with GPA 5 out of 5
+Bachelor of Science in (EEE) Electrical and Electronic Engineering. (Ongoing)
+Hajee Mohammad Danesh Science & Technology University, Dinajpur-5200, Bangladesh
 <!--
-**tamimahsansami/tamimahsansami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
