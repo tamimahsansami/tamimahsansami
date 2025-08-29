@@ -5,13 +5,16 @@ To build a career in Data Science and Artificial Intelligence, with a strong foc
 
 
 
-## EDUCATIONAL QUALIFICATIONS
-SSC from NARAIL GOVERNMENT HIGH SCHOOL
-Session: 2017-2018, Passed: 2019 with GPA 5 out of 5
-HSC from NARAIL GOVERNMENT VICTORIA COLLEGE
-Session: 2019-2020, Passed: 2021 with GPA 5 out of 5
-Bachelor of Science in (EEE) Electrical and Electronic Engineering. (Ongoing)
-Hajee Mohammad Danesh Science & Technology University, Dinajpur-5200, Bangladesh
+## EDUCATIONAL
+- **SSC from NARAIL GOVERNMENT HIGH SCHOOL**  
+  Session: 2017–2018 | Passed: 2019 | GPA: 5.00 / 5.00  
+
+- **HSC from NARAIL GOVERNMENT VICTORIA COLLEGE**  
+  Session: 2019–2020 | Passed: 2021 | GPA: 5.00 / 5.00  
+
+- **Bachelor of Science in Electrical and Electronic Engineering (Ongoing)**  
+  Hajee Mohammad Danesh Science & Technology University, Dinajpur-5200, Bangladesh  
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
